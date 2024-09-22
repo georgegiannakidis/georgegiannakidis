@@ -44,8 +44,3 @@ I'm a passionate **Cybersecurity & Data Analyst** with hands-on experience in da
 - **Uploading soon
 
 ---
-
-## 📫 Let's Connect
-
-- [Email](mailto:giannakg0@gmail.com)
-- [LinkedIn](https://linkedin.com/in/giannakidisgeorge)
