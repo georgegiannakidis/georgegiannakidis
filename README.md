@@ -41,6 +41,6 @@ I'm a passionate **Cybersecurity & Data Analyst** with hands-on experience in da
 
 ## 🔗 Projects
 
-- **Uploading soon
+- **2 completed projects uploading soon
 
 ---
