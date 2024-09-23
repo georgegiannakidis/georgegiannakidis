@@ -42,7 +42,6 @@ I'm a passionate **Cybersecurity & Data Analyst** with hands-on experience in da
 ## 🔗 Projects
 
 - [Active Directory Defense and Attack Simulation Lab](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab)
-- **2 completed projects uploading soon**
 - **1 completed project uploading soon**
 
 ---
