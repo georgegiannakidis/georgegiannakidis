@@ -42,6 +42,7 @@ I'm a passionate **Cybersecurity & Data Analyst** with hands-on experience in da
 ## 🔗 Projects
 
 - [Active Directory Defense and Attack Simulation Lab](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab)
-- **1 completed project uploading soon**
+- [Homelab: Elastic SIEM with Kali Linux VM](https://github.com/georgegiannakidis/homelab-elastic-siem-kali)
+- More projects coming soon!
 
 ---
