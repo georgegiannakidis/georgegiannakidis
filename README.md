@@ -2,7 +2,7 @@
 
 **Cybersecurity & Data Analyst Enthusiast | IT Support Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannakg0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 
 
 ---
