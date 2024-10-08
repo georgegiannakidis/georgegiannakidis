@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Cybersecurity Analyst & Data Enthusiast** with hands-on experience in data analytics, cybersecurity, and IT support. I'm currently pursuing a **BS in Computer Science**, eager to apply my knowledge in a data-driven environment. I love turning data into actionable insights and solving complex problems.  At the same time with my Bachelor (expecting to be completed by 2025), I seek more certifications from CompTIA and other high profile vendors in the field of cybersecurity and data analysis.  All these while working full time! Love learning!💪
+I'm a passionate **Cybersecurity Analyst & Data Analyst Enthusiast** with hands-on experience in data analytics, cybersecurity, and IT support. I'm currently pursuing a **BS in Computer Science**, eager to apply my knowledge in a data-driven environment. I love turning data into actionable insights and solving complex problems.  At the same time with my Bachelor (expecting to be completed by 2025), I seek more certifications from CompTIA and other high profile vendors in the field of cybersecurity and data analysis.  All these while working full time! Love learning!💪
 
 ---
 
