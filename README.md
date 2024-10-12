@@ -43,6 +43,5 @@ I'm a passionate **Cybersecurity Analyst & Data Analyst Enthusiast** with hands-
 
 - [Active Directory Defense and Attack Simulation Lab](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab)
 - [Homelab: Elastic SIEM with Kali Linux VM](https://github.com/georgegiannakidis/homelab-elastic-siem-kali)
+- [Tomcat Takeover - Blue Team CTF Walkthrough](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
 - More projects coming soon!
-
----
