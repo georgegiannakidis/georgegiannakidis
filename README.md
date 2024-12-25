@@ -45,3 +45,10 @@ I'm a passionate **Cybersecurity Analyst & Data Analyst Enthusiast** with hands-
 - [Homelab: Elastic SIEM with Kali Linux VM](https://github.com/georgegiannakidis/homelab-elastic-siem-kali)
 - [Tomcat Takeover - Blue Team CTF Walkthrough](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
 - More projects coming soon!
+
+---
+
+## 😎 Playing/Learning stuff
+- Christmas 2024 - [Tryhackme.com Advent of Cyber 2024](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
+
+
