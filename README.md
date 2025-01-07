@@ -17,11 +17,11 @@ I'm a passionate **Cybersecurity Analyst & Data Analyst Enthusiast** with hands-
 
 - **Languages**:  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 - **Tools**:  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-003366?style=for-the-badge&logo=windows&logoColor=white)
@@ -48,7 +48,7 @@ I'm a passionate **Cybersecurity Analyst & Data Analyst Enthusiast** with hands-
 
 ---
 
-## 😎 Playing/Learning stuff
+## 😎 Playing/Learning
 - Christmas 2024 - [Tryhackme.com Advent of Cyber 2024](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
-
+- Great Bash Scripting tutorial - [How to Write a Bash Script](https://linuxconfig.org/bash-scripting-tutorial)
 
