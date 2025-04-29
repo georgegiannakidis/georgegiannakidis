@@ -47,6 +47,7 @@ Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), h
 - [Homelab: Elastic SIEM with Kali Linux VM](https://github.com/georgegiannakidis/homelab-elastic-siem-kali)
 - [Tomcat Takeover - Blue Team CTF Walkthrough](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
 - [Password Generator built with Python](https://github.com/georgegiannakidis/password_generator_python/tree/main)
+- [AWS Cloud Resume Challenge](https://github.com/georgegiannakidis/aws_cloud_resume_challenge/tree/main)
 - More coming soon!
 
 ---
