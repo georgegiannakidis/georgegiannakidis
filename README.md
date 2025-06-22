@@ -1,4 +1,4 @@
-# 👋 Hi, I'm George Giannakidis
+# 👋 Hi, I'm George!
 
 **Cybersecurity Analyst & Data Enthusiast | IT Support Specialist**
 
