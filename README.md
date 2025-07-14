@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George!
 
-**Cybersecurity Analyst & Data Enthusiast | IT Support Specialist**
+**Technical Solutions Specialist & Data Enthusiast | Driven by Security Innovation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
