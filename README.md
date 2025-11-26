@@ -48,6 +48,7 @@ Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), h
 - [Tomcat Takeover - Blue Team CTF Walkthrough](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
 - [Password Generator built with Python](https://github.com/georgegiannakidis/password_generator_python/tree/main)
 - [AWS Cloud Resume Challenge](https://github.com/georgegiannakidis/aws_cloud_resume_challenge/tree/main)
+- [IoC Automator](https://github.com/georgegiannakidis/ioc-automator)
 - More coming soon!
 
 ---
