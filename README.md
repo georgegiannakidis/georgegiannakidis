@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George!
 
-**Technical Solutions Specialist & Data Enthusiast | Driven by Security Innovation**
+**Technical Solutions Specialist | Driven by Security Innovation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m an IT Support Specialist passionate about cloud technologies, aiming to become a Cloud Security Architect. I have experience leading global support teams, optimizing operations, and implementing impactful automation, including an AI chatbot reducing ticket volume by 30%.
+I’m an IT Support Specialist passionate about cloud technologies. I have experience leading global support teams, optimizing operations, and implementing impactful automation, including an AI chatbot reducing ticket volume by 30%.
 I specialize in system monitoring, troubleshooting, and cybersecurity and I'm interested in innovative, cloud-focused roles.
 Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), holding certifications from Amazon, IBM, Google, Cisco, and Microsoft. I continuously expand my skills to adapt to the evolving tech landscape.
 
@@ -56,4 +56,5 @@ Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), h
 ## 😎 Playing/Learning
 - Christmas 2024 - [Tryhackme.com Advent of Cyber 2024](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
 - Great Bash Scripting tutorial - [How to Write a Bash Script](https://linuxconfig.org/bash-scripting-tutorial)
+- Christmas 2025 - *In progress* - Tryhackme.com
 
