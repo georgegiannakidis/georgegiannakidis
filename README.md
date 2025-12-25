@@ -56,5 +56,5 @@ Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), h
 ## 😎 Playing/Learning
 - Christmas 2024 - [Tryhackme.com Advent of Cyber 2024](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
 - Great Bash Scripting tutorial - [How to Write a Bash Script](https://linuxconfig.org/bash-scripting-tutorial)
-- Christmas 2025 - *In progress* - Tryhackme.com
+- Christmas 2025 - [Tryhackme.com Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
 
