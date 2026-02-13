@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George!
 
-**Technical Solutions Specialist | Driven by Security Innovation**
+**Cybersecurity-Focused Technical Solutions Specialist | Security+ Certified**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
@@ -9,11 +9,33 @@
 
 ## 👨‍💻 About Me
 
-I’m an IT Support Specialist passionate about cloud technologies. I have experience leading global support teams, optimizing operations, and implementing impactful automation, including an AI chatbot reducing ticket volume by 30%.
-I specialize in system monitoring, troubleshooting, and cybersecurity and I'm interested in innovative, cloud-focused roles.
-Currently, I’m completing my Bachelor's in Computer Science (Cybersecurity), holding certifications from Amazon, IBM, Google, Cisco, and Microsoft. I continuously expand my skills to adapt to the evolving tech landscape.
+I’m a Technical Solutions Specialist with a strong focus on cybersecurity, cloud technologies, and automation. I have experience leading global support teams, optimizing operations, and building impactful solutions, including an AI-driven chatbot that reduced ticket volume by 30%.
+
+My core interests are in blue team operations, SIEM engineering, threat detection, and offensive security labs. I actively build and document hands-on cybersecurity projects, including Active Directory attack simulations, Elastic SIEM labs, and CTF walkthroughs.
+
+Currently completing my Bachelor's in Computer Science (Cybersecurity).
+CompTIA Security+ certified, with additional certifications from AWS, Microsoft, Google, IBM, and Cisco.
+
+I continuously invest in practical lab environments to strengthen real-world security skills.
 
 ---
+
+## 🏅 Certifications
+
+- **CompTIA Security+**
+- **ISC2 Certified in Cybersecurity (CC)**
+- AWS Cloud Practitioner (CLF-C02)
+- AWS AI Practitioner (AIF-C01)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+- Cisco Networking Academy: Ethical Hacker
+- Cisco Networking Academy: Junior Cybersecurity Analyst
+- Google IT Support
+- Google Data Analytics
+- Google AI Essentials
+- IBM Cybersecurity Analyst
+- Linux Essentials
+
 
 ## 🛠️ Skills
 
