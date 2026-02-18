@@ -5,6 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
 
+## 🏅 TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/n0uS.png)](https://tryhackme.com/p/n0uS)
+
 ---
 
 ## 👨‍💻 About Me
