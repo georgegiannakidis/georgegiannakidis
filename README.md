@@ -6,6 +6,7 @@
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
 
 ## 🏅 TryHackMe Profile
+*Rank: Top 1%*
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/n0uS.png)](https://tryhackme.com/p/n0uS)
 
