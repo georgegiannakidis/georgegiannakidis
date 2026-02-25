@@ -18,7 +18,7 @@ I’m a Technical Solutions Specialist with a strong focus on cybersecurity, clo
 
 My core interests are in blue team operations, SIEM engineering, threat detection, and offensive security labs. I actively build and document hands-on cybersecurity projects, including Active Directory attack simulations, Elastic SIEM labs, and CTF walkthroughs.
 
-Currently completing my Bachelor's in Computer Science (Cybersecurity).
+Completed my Bachelor's in Computer Science in 2025 with the highest honors (GPA 3.93).
 CompTIA Security+ certified, with additional certifications from AWS, Microsoft, Google, IBM, and Cisco.
 
 I continuously invest in practical lab environments to strengthen real-world security skills.
