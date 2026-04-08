@@ -5,13 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 [![Image of https://github.com/georgegiannakidis/profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter)
 
-## 🏅 TryHackMe Profile
-*Rank: Top 1%*
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/n0uS.png)](https://tryhackme.com/p/n0uS)
-
----
-
 ## 👨‍💻 About Me
 
 I’m a Technical Solutions Specialist with a strong focus on cybersecurity, cloud technologies, and automation. I have experience leading global support teams, optimizing operations, and building impactful solutions, including an AI-driven chatbot that reduced ticket volume by 30%.
