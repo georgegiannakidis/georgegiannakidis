@@ -4,23 +4,29 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into Governance, Risk & Compliance (GRC) and cybersecurity. Throughout my career I've worked on security-adjacent tasks - access control enforcement, phishing triage, log monitoring, secure third-party integrations and built a foundation I'm now formalizing through study, certifications and hands-on labs.
 
-I’m a Technical Solutions Specialist with a strong focus on cybersecurity, cloud technologies, and automation. I have experience leading global support teams, optimizing operations, and building impactful solutions, including an AI-driven chatbot that reduced ticket volume by 30%.
+🎓 Currently pursuing M.S. in Computer Science (Cybersecurity Concentration) at the University of Hartford — starting Fall 2026.
 
-My core interests are in blue team operations, SIEM engineering, threat detection, and offensive security labs. I actively build and document hands-on cybersecurity projects, including Active Directory attack simulations, Elastic SIEM labs, and CTF walkthroughs.
+🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
 
-Completed my Bachelor's in Computer Science in 2025 with the highest honors (GPA 3.93).
-CompTIA Security+ certified, with additional certifications from AWS, Microsoft, Google, IBM, and Cisco.
+🛡️ Security+ certified, with additional certifications across AWS, Microsoft, Google, IBM, Cisco and ISC2.
 
-I continuously invest in practical lab environments to strengthen real-world security skills.
+🧪 I invest heavily in practical lab environments - blue team operations, SIEM engineering, threat detection, and offensive security exercises - to build real-world skills that go beyond certificates.
 
----
+🎯 Focus Areas
+
+GRC & Compliance - NIST CSF, MITRE ATT&CK, risk assessment, policy development
+Identity & Access Management - MFA, RBAC, least-privilege, secure onboarding
+Blue Team Operations - SIEM engineering, log analysis, threat detection
+Cloud Security - AWS, Azure, IAM hardening, secure SaaS configuration
+
 
 ## 🏅 Certifications
 
 - **CompTIA Security+**
-- **ISC2 Certified in Cybersecurity (CC)**
+- ISC2 Certified in Cybersecurity (CC)
 - AWS Cloud Practitioner (CLF-C02)
 - AWS AI Practitioner (AIF-C01)
 - Microsoft Azure Fundamentals (AZ-900)
@@ -44,7 +50,8 @@ I continuously invest in practical lab environments to strengthen real-world sec
 - **Tools**:  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-003366?style=for-the-badge&logo=windows&logoColor=white)
 ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-FF0000?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
