@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and cybersecurity. Throughout my career I've worked on security-adjacent tasks - access control enforcement, phishing triage, log monitoring, secure third-party integrations - and built a foundation I'm now formalizing through study, certifications, and hands-on labs.
+I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. Throughout my career I've worked on security-adjacent tasks - access control enforcement, phishing triage, log monitoring, secure third-party integrations - and built a foundation I'm now formalizing through study, certifications, and hands-on labs.
 
 🎓 **Currently pursuing M.S. in Computer Science (Cybersecurity Concentration)** at the University of Hartford - starting Fall 2026.
 
