@@ -103,12 +103,33 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 
 ---
 
-## 😎 Currently Learning
+## 🚩 CTF & Skills Challenges
 
-- 📚 Preparing for M.S. coursework - Cybersecurity track at University of Hartford
-- 🎄 [TryHackMe - Advent of Cyber 2025](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
-- 🧠 Deepening expertise in GRC frameworks (NIST CSF, ISO 27001, SOC 2)
+I actively participate in Capture The Flag competitions and hands-on cybersecurity challenges across multiple platforms to sharpen my offensive and defensive skills.
+
+### 🟥 TryHackMe
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-n0uS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0uS)
+
+- ✅ Completed **Advent of Cyber 2024** — [Badge](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
+- ✅ Completed **Advent of Cyber 2025** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
+- 🔄 Actively working through learning paths focused on SOC, threat detection, and penetration testing
+
+### ⬛ Hack The Box
+- 🔄 Actively exploring machines and challenges — progress ongoing
+
+### 🔵 PicoCTF
+- 🔄 Practicing foundational CTF categories: forensics, cryptography, web exploitation, and binary exploitation
 
 ---
 
-📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/giannakidisgeorge) · giannakg0@gmail.com
+## 😎 Currently Learning & Exploring
+
+- 🎓 Preparing for **M.S. in Computer Science (GRC specialization)** @ University of Hartford — Fall 2026
+- 🔐 Deepening GRC knowledge: NIST CSF, ISO 27001, SOC 2, risk management frameworks
+- 🛡️ Advancing blue team skills through TryHackMe SOC & threat detection paths
+- ⚔️ Exploring offensive techniques via Hack The Box machines
+- 🐧 Strengthening Linux and Bash scripting for security automation
+
+---
+
+📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/giannakidisgeorge)
