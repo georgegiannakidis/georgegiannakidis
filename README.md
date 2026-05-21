@@ -117,7 +117,7 @@ I actively participate in Capture The Flag competitions and hands-on cybersecuri
 ### ⬛ Hack The Box
 - 🔄 Actively exploring machines and challenges — progress ongoing
 
-### 🔵 PicoCTF
+### 🔵 CyLab (ex PicoCTF)
 - 🔄 Practicing foundational CTF categories: forensics, cryptography, web exploitation, and binary exploitation
 
 ---
