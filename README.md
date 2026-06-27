@@ -103,7 +103,7 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 
 ---
 
-## 🚩 CTF & Skills Challenges
+## 🚩 [CTF & Skills Challenges](https://github.com/georgegiannakidis/ctf-writeups)
 
 I actively participate in Capture The Flag competitions and hands-on cybersecurity challenges across multiple platforms to sharpen my offensive and defensive skills.
 
