@@ -1,34 +1,32 @@
 # 👋 Hi, I'm George!
 
-**Technical Solutions Specialist | Transitioning into GRC & Cybersecurity | Security+ Certified**
+**M.S. Computer Science Candidate | Cybersecurity & GRC | CISA Candidate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 
 ## 👨‍💻 About Me
 
-I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. Throughout my career I've worked on security-adjacent tasks - access control enforcement, phishing triage, log monitoring, secure third-party integrations - and built a foundation I'm now formalizing through study, certifications, and hands-on labs.
+I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. Throughout my career I've worked on security-adjacent tasks, including access control enforcement, phishing triage, log monitoring, and secure third-party integrations. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
 
-🎓 **Currently pursuing M.S. in Computer Science (Cybersecurity Concentration)** at the University of Hartford - starting Fall 2026.
-
-🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
-
-🛡️ Security+ certified, with additional certifications across AWS, Microsoft, Google, IBM, Cisco, and ISC2.
-
-🧪 I invest heavily in practical lab environments - blue team operations, SIEM engineering, threat detection, and offensive security exercises - to build real-world skills that go beyond certificates.
+* 🎓 **Currently pursuing M.S. in Computer Science (Cybersecurity Concentration)** at the University of Hartford (Starting Fall 2026).
+* 🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
+* 🛡️ Security+ certified, with additional technical certifications across AWS, Microsoft, Google, IBM, Cisco, and ISC2.
+* 🧪 I invest heavily in practical lab environments (blue team operations, SIEM engineering, threat detection, and offensive security exercises) to build real-world skills that go beyond certificates.
 
 ---
 
 ## 🎯 Focus Areas
 
-- **GRC & Compliance** - NIST CSF, MITRE ATT&CK, risk assessment, policy development
-- **Identity & Access Management** - MFA, RBAC, least-privilege, secure onboarding
-- **Blue Team Operations** - SIEM engineering, log analysis, threat detection
-- **Cloud Security** - AWS, Azure, IAM hardening, secure SaaS configuration
+- **GRC & Compliance** | NIST CSF, MITRE ATT&CK, risk assessment, policy development
+- **Identity & Access Management** | MFA, RBAC, least-privilege, secure onboarding
+- **Blue Team Operations** | SIEM engineering, log analysis, threat detection
+- **Cloud Security** | AWS, Azure, IAM hardening, secure SaaS configuration
 
 ---
 
 ## 🏅 Certifications
 
+- **ISACA Certified Information Systems Auditor (CISA) | Candidate**
 - **CompTIA Security+**
 - **ISC2 Certified in Cybersecurity (CC)**
 - AWS Certified Cloud Practitioner (CLF-C02)
@@ -92,12 +90,12 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 
 ## 🔗 Featured Projects
 
-- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) - Red/Blue team simulation with Splunk & Sysmon
-- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) - End-to-end SIEM build for detection engineering practice
-- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) - Wireshark traffic analysis mapped to MITRE ATT&CK
-- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) - Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
-- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) - Indicator-of-Compromise automation
-- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) - Lightweight credential utility
+- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) | Red/Blue team simulation with Splunk & Sysmon
+- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) | End-to-end SIEM build for detection engineering practice
+- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) | Wireshark traffic analysis mapped to MITRE ATT&CK
+- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) | Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
+- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) | Indicator-of-Compromise automation
+- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) | Lightweight credential utility
 
 *More coming soon as I progress through my Master's program.*
 
@@ -110,12 +108,12 @@ I actively participate in Capture The Flag competitions and hands-on cybersecuri
 ### 🟥 TryHackMe
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-n0uS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0uS)
 
-- ✅ Completed **Advent of Cyber 2024** — [Badge](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
-- ✅ Completed **Advent of Cyber 2025** — [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
+- ✅ Completed **Advent of Cyber 2024** | [Badge](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
+- ✅ Completed **Advent of Cyber 2025** | [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
 - 🔄 Actively working through learning paths focused on SOC, threat detection, and penetration testing
 
 ### ⬛ Hack The Box
-- 🔄 Actively exploring machines and challenges — progress ongoing
+- 🔄 Actively exploring machines and challenges | Progress ongoing
 
 ### 🔵 CyLab (ex PicoCTF)
 - 🔄 Practicing foundational CTF categories: forensics, cryptography, web exploitation, and binary exploitation
@@ -124,7 +122,8 @@ I actively participate in Capture The Flag competitions and hands-on cybersecuri
 
 ## 😎 Currently Learning & Exploring
 
-- 🎓 Preparing for **M.S. in Computer Science (GRC specialization)** @ University of Hartford — Fall 2026
+- 🎓 Preparing for **M.S. in Computer Science (GRC specialization)** @ University of Hartford | Fall 2026
+- 📑 Actively studying for the **ISACA CISA** examination (Information Systems Auditing and Control)
 - 🔐 Deepening GRC knowledge: NIST CSF, ISO 27001, SOC 2, risk management frameworks
 - 🛡️ Advancing blue team skills through TryHackMe SOC & threat detection paths
 - ⚔️ Exploring offensive techniques via Hack The Box machines
