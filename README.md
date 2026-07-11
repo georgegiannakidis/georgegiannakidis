@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. Throughout my career I've worked on security-adjacent tasks, including access control enforcement, phishing triage, log monitoring, and secure third-party integrations. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
+I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
 
 * 🎓 **Currently pursuing M.S. in Computer Science (Cybersecurity Concentration)** at the University of Hartford (Starting Fall 2026).
 * 🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
-* 🛡️ Security+ certified, with additional technical certifications across AWS, Microsoft, Google, IBM, Cisco, and ISC2.
-* 🧪 I invest heavily in practical lab environments (blue team operations, SIEM engineering, threat detection, and offensive security exercises) to build real-world skills that go beyond certificates.
+* 🛡️ Security+ and ISC2 CC certified; actively studying for ISACA CISA.
+* 🧪 Top 1% ranked on TryHackMe with 350+ rooms completed - building blue team, SIEM, and offensive security skills through daily hands-on lab practice.
 
 ---
 
@@ -19,16 +19,19 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 
 - **GRC & Compliance** | NIST CSF, MITRE ATT&CK, risk assessment, policy development
 - **Identity & Access Management** | MFA, RBAC, least-privilege, secure onboarding
-- **Blue Team Operations** | SIEM engineering, log analysis, threat detection
-- **Cloud Security** | AWS, Azure, IAM hardening, secure SaaS configuration
+- **Blue Team Operations** *(building)* | SIEM engineering, log analysis, threat detection
+- **Cloud Security** *(building)* | AWS, Azure, IAM hardening, secure SaaS configuration
 
 ---
 
 ## 🏅 Certifications
 
-- **ISACA Certified Information Systems Auditor (CISA) | Candidate**
-- **CompTIA Security+**
-- **ISC2 Certified in Cybersecurity (CC)**
+**Core Security Credentials**
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+- ISACA CISA - Candidate, exam in progress
+
+**Cloud & Platform Fundamentals** *(foundational-level, non-proctored)*
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS Certified AI Practitioner (AIF-C01)
 - Microsoft Azure Fundamentals (AZ-900)
@@ -46,14 +49,18 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 
 ## 🛠️ Skills
 
-**Languages**
+**Production Experience** *(current/former role)*
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-FF9900?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Security Tools**
+RBAC provisioning, client onboarding, access control enforcement, and system monitoring for a live multi-tenant SaaS platform.
+
+**Building Through Labs** *(TryHackMe, HackTheBox, home lab - top 1% TryHackMe rank, 350+ rooms completed)*
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-003366?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,13 +69,20 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-FF0000?style=for-the-badge&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+SIEM detection engineering, log analysis, offensive/defensive CTF practice - moving from guided labs toward independent detection work.
+
+**Languages**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Cloud & Platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![TLS/DNSSEC](https://img.shields.io/badge/TLS%2FDNSSEC-00897B?style=for-the-badge&logoColor=white)
 
 **GRC & Frameworks**
@@ -79,23 +93,18 @@ I'm a Technical Solutions Specialist with 8+ years in SaaS support and operation
 ![Policy Development](https://img.shields.io/badge/Policy_Development-1565C0?style=for-the-badge&logoColor=white)
 ![Third-Party Risk](https://img.shields.io/badge/Third--Party_Risk-6A1B9A?style=for-the-badge&logoColor=white)
 
-**Productivity**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
 ---
 
 ## 🔗 Featured Projects
 
-- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) | Red/Blue team simulation with Splunk & Sysmon
-- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) | End-to-end SIEM build for detection engineering practice
-- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) | Wireshark traffic analysis mapped to MITRE ATT&CK
-- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) | Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
-- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) | Indicator-of-Compromise automation
-- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) | Lightweight credential utility
+> ⚠️ Status tags below are placeholders - confirm each repo's actual state (real README, working code, no empty scaffolding) before publishing, and correct any tag that doesn't match reality.
+
+- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) `[status: verify]` | Red/Blue team simulation with Splunk & Sysmon
+- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) `[status: verify]` | End-to-end SIEM build for detection engineering practice
+- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) `[status: verify]` | Wireshark traffic analysis mapped to MITRE ATT&CK
+- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) `[status: verify]` | Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
+- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) `[status: verify]` | Indicator-of-Compromise automation
+- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) `[status: verify]` | Lightweight credential utility
 
 *More coming soon as I progress through my Master's program.*
 
@@ -108,6 +117,7 @@ I actively participate in Capture The Flag competitions and hands-on cybersecuri
 ### 🟥 TryHackMe
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-n0uS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0uS)
 
+- 🏆 **Top 1% rank** · 350+ rooms completed · 61 badges
 - ✅ Completed **Advent of Cyber 2024** | [Badge](https://tryhackme.com/r/0n0uS/badges/adventofcyber2024)
 - ✅ Completed **Advent of Cyber 2025** | [Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMYMWISDAK.pdf)
 - 🔄 Actively working through learning paths focused on SOC, threat detection, and penetration testing
