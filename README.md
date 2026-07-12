@@ -114,7 +114,12 @@ SIEM detection engineering, log analysis, offensive/defensive CTF practice - mov
 
 I actively participate in Capture The Flag competitions and hands-on cybersecurity challenges across multiple platforms to sharpen my offensive and defensive skills.
 
-**📝 Latest Writeups:** [Brr (OT/SCADA)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Brr) · [The Loan Arranger (ML Sec)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Token-City) · [Kaboom](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Kaboom) — [see all →](https://github.com/georgegiannakidis/ctf-writeups)
+**📝 Latest Writeups:**
+- [Brr (OT/SCADA)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Brr)
+- [Kaboom (ICS/OT · Modbus)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Kaboom)
+- [The Loan Arranger (ML Sec)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Token-City)
+- [Protocol Drift (Vectara)](https://github.com/georgegiannakidis/ctf-writeups/tree/main/CTF-Puzzles/TryHackMe/Vectara/Task_8_protocol-drift)
+- [See all writeups →](https://github.com/georgegiannakidis/ctf-writeups)
 
 ### 🟥 TryHackMe
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-n0uS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0uS)
