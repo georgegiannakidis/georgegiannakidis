@@ -100,8 +100,6 @@ SIEM detection engineering, log analysis, offensive/defensive CTF practice - mov
 - 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) | Indicator-of-Compromise automation
 - 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) | Lightweight credential utility
 
-*More coming soon as I progress through my Master's program.*
-
 ---
 
 ## 🚩 [CTF & Skills Challenges](https://github.com/georgegiannakidis/ctf-writeups)
