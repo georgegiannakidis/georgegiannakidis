@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Technical support and product operations professional with 10+ years in SaaS support and operations. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
+I’m a technical support and product operations professional with 10 years in SaaS support and operations. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
 
 * 🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
 * 🛡️ Security+ and ISC2 CC certified
@@ -126,17 +126,6 @@ I actively participate in Capture The Flag competitions and hands-on cybersecuri
 
 ### 🔵 CyLab (ex PicoCTF)
 - 🔄 Practicing foundational CTF categories: forensics, cryptography, web exploitation, and binary exploitation
-
----
-
-## 😎 Currently Learning & Exploring
-
-- 🎓 Preparing for **M.S. in Computer Science (GRC specialization)** @ University of Hartford | Fall 2026
-- 📑 Actively studying for the **ISACA CISA** examination (Information Systems Auditing and Control)
-- 🔐 Deepening GRC knowledge: NIST CSF, ISO 27001, SOC 2, risk management frameworks
-- 🛡️ Advancing blue team skills through TryHackMe SOC & threat detection paths
-- ⚔️ Exploring offensive techniques via Hack The Box machines
-- 🐧 Strengthening Linux and Bash scripting for security automation
 
 ---
 
