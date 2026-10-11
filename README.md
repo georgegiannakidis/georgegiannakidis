@@ -93,12 +93,12 @@ SIEM detection engineering, log analysis, offensive/defensive CTF practice - mov
 ---
 
 ## 🔗 Featured Projects
-- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) `[status: verify]` | Red/Blue team simulation with Splunk & Sysmon
-- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) `[status: verify]` | End-to-end SIEM build for detection engineering practice
-- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) `[status: verify]` | Wireshark traffic analysis mapped to MITRE ATT&CK
-- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) `[status: verify]` | Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
-- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) `[status: verify]` | Indicator-of-Compromise automation
-- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) `[status: verify]` | Lightweight credential utility
+- 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) | Red/Blue team simulation with Splunk & Sysmon
+- 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) | End-to-end SIEM build for detection engineering practice
+- 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) | Wireshark traffic analysis mapped to MITRE ATT&CK
+- ☁️ [**AWS Cloud Resume Challenge**](https://github.com/georgegiannakidis/aws_cloud_resume_challenge) | Hardened cloud deployment with TLS 1.2+, DNSSEC, least-privilege IAM
+- 🤖 [**IoC Automator**](https://github.com/georgegiannakidis/ioc-automator) | Indicator-of-Compromise automation
+- 🔐 [**Python Password Generator**](https://github.com/georgegiannakidis/password_generator_python) | Lightweight credential utility
 
 *More coming soon as I progress through my Master's program.*
 
