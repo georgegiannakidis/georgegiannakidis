@@ -93,9 +93,6 @@ SIEM detection engineering, log analysis, offensive/defensive CTF practice - mov
 ---
 
 ## 🔗 Featured Projects
-
-> ⚠️ Status tags below are placeholders - confirm each repo's actual state (real README, working code, no empty scaffolding) before publishing, and correct any tag that doesn't match reality.
-
 - 🛡️ [**Active Directory Defense and Attack Simulation Lab**](https://github.com/georgegiannakidis/AD-Cybersecurity-Simulation-Lab) `[status: verify]` | Red/Blue team simulation with Splunk & Sysmon
 - 🔍 [**Homelab: Elastic SIEM with Kali Linux VM**](https://github.com/georgegiannakidis/homelab-elastic-siem-kali) `[status: verify]` | End-to-end SIEM build for detection engineering practice
 - 🐱 [**Tomcat Takeover - Blue Team CTF Walkthrough**](https://github.com/georgegiannakidis/Tomcat-Takeover-lab) `[status: verify]` | Wireshark traffic analysis mapped to MITRE ATT&CK
