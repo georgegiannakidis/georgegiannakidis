@@ -8,9 +8,8 @@
 
 I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
 
-* 🎓 **Currently pursuing M.S. in Computer Science (Cybersecurity Concentration)** at the University of Hartford (Starting Fall 2026).
 * 🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
-* 🛡️ Security+ and ISC2 CC certified; actively studying for ISACA CISA.
+* 🛡️ Security+ and ISC2 CC certified
 * 🧪 Top 1% ranked on TryHackMe with 350+ rooms completed - building blue team, SIEM, and offensive security skills through daily hands-on lab practice.
 
 ---
