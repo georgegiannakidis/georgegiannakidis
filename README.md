@@ -1,7 +1,5 @@
 # 👋 Hi, I'm George!
 
-**M.S. Computer Science Candidate | Cybersecurity & GRC | CISA Candidate**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/giannakidisgeorge)
 
 ## 👨‍💻 About Me
