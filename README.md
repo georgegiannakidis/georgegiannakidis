@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations, now actively transitioning into **Governance, Risk & Compliance (GRC)** and **Cybersecurity**. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
+I'm a Technical Solutions Specialist with 8+ years in SaaS support and operations. In my most recent role, I also acted as a product stakeholder for a revenue management system: organizing client feedback sessions, triaging and reporting bugs to the development team, and helping shape the roadmap for new features. Alongside that, I handled access control enforcement, client onboarding, and system monitoring. This hands-on foundation is what I'm now formalizing through advanced study, core certifications, and security labs.
 
 * 🏆 Completed B.S. in Computer Science in 2025 with a GPA of 3.93.
 * 🛡️ Security+ and ISC2 CC certified
